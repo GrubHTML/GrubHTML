@@ -5,7 +5,7 @@
 
 ---
 
-### 💡 About Me
+### 💡 About Us
 
 - 🎓 We're Computer Science and Engineering graduates with a shared passion for web development
 - 🧑‍💻 Co-founders of GrubHTML, a growing creative dev brand
